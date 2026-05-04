@@ -181,10 +181,10 @@ export default function Contact() {
                 {isLoading ? (
                   <>Sending...</>
                 ) : (
-                  <>
+                  <div className="flex items-center gap-2 justify-center">
                     Send Message
                     <Send className="w-5 h-5" />
-                  </>
+                  </div>
                 )}
               </Button>
 
