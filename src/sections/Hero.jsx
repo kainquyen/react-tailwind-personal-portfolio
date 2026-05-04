@@ -7,7 +7,7 @@ import {
     Link2,
     Bird,
 } from "lucide-react";
-import { AnimatedBorderButton } from "../components/AnimatedBorderBUtton";
+import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
 const skills = [
     "React",
